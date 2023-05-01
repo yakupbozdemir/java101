@@ -13,9 +13,9 @@ This repository is for studying java101 on patika.dev
 
 ## Koşullu İfadeler ve Kod Blokları
 
--[HesapMakinesi]()
--[]()
--[]()
--[]()
--[]()
--[]()
+- [HesapMakinesi](https://github.com/yakupbozdemir/java101/blob/main/project/HesapMakinesi/src/Main.java)
+- []()
+- []()
+- []()
+- []()
+- []()
