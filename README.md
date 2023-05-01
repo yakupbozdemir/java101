@@ -10,3 +10,12 @@ This repository is for studying java101 on patika.dev
 - [daire-alan-ve-cevre](https://github.com/yakupbozdemir/java101/blob/main/project/daire-alan-ve-cevre/src/Main.java)
 - [VucutKitleIndeksi](https://github.com/yakupbozdemir/java101/blob/main/project/VucutKitleIndeksi/src/Main.java)
 - [ManavKasa](https://github.com/yakupbozdemir/java101/blob/main/project/ManavKasa/src/Main.java)
+
+## Koşullu İfadeler ve Kod Blokları
+
+-[HesapMakinesi]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
