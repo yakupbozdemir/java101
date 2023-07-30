@@ -21,4 +21,4 @@ This repository is for studying java101 on patika.dev
 - [BurcBulma]()
 - [ucakBiletiHesaplama](https://github.com/yakupbozdemir/java101/blob/main/project/ucakBiletiHesaplama/src/Main.java)
 - [cinZodyagi](https://github.com/yakupbozdemir/java101/blob/main/project/cinZodyagi/src/Main.java)
-- [artikyil](https://github.com/yakupbozdemir/java101/blob/main/project/artikyil/src/Main.java)
+- [artikyil](https://github.com/yakupbozdemir/java101/blob/main/project/artikYil/src/Main.java)
