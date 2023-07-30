@@ -14,7 +14,7 @@ This repository is for studying java101 on patika.dev
 ## Koşullu İfadeler ve Kod Blokları
 
 - [HesapMakinesi](https://github.com/yakupbozdemir/java101/blob/main/project/HesapMakinesi/src/Main.java)
-- [KullaniciGirisi](https://github.com/yakupbozdemir/java101/blob/main/project/KullaniciGirisi/src/Main.java)
+- [KullaniciGirisi](https://github.com/yakupbozdemir/java101/blob/main/project/kullaniciGirisi/src/Main.java)
 - [SinifGecmeDurumu](https://github.com/yakupbozdemir/java101/blob/main/project/SinifGecmeDurumu/src/Main.java)
 - [EtkinlikOnerisi]()
 - [SayilariSiralama](https://github.com/yakupbozdemir/java101/blob/main/project/SayilariSiralama/src/Main.java)
