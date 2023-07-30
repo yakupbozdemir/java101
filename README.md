@@ -25,11 +25,11 @@ This repository is for studying java101 on patika.dev
 
 ## Döngüler
 
-- [UcVeDortTamBolmeOrtalama]()
-- [CiftVeDordunKatiOlanSayilarinToplami]()
-- [DortveBesinKuvvetleriniYazdirma]()
-- [KombinasyonHesaplama]()
-- [UsluSayiHesaplama]()
+- [UcVeDortTamBolmeOrtalama](https://github.com/yakupbozdemir/java101/blob/main/project/UcVeDortTamBolmeOrtalama/src/Main.java)
+- [CiftVeDordunKatiOlanSayilarinToplami](https://github.com/yakupbozdemir/java101/blob/main/project/CiftVeDordunKatiOlanSayilarinToplami/src/Main.java)
+- [DortveBesinKuvvetleriniYazdirma](https://github.com/yakupbozdemir/java101/blob/main/project/DortveBesinKuvvetleriniYazdirma/src/Main.java)
+- [KombinasyonHesaplama](https://github.com/yakupbozdemir/java101/blob/main/project/KombinasyonHesaplama/src/Main.java)
+- [UsluSayiHesaplama](https://github.com/yakupbozdemir/java101/blob/main/project/UsluSayiHesaplama/src/Main.java)
 - []()
 - []()
 - []()
