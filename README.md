@@ -18,4 +18,7 @@ This repository is for studying java101 on patika.dev
 - [SinifGecmeDurumu](https://github.com/yakupbozdemir/java101/blob/main/project/SinifGecmeDurumu/src/Main.java)
 - [EtkinlikOnerisi]()
 - [SayilariSiralama](https://github.com/yakupbozdemir/java101/blob/main/project/SayilariSiralama/src/Main.java)
-- []()
+- [BurcBulma]()
+- [ucakBiletiHesaplama]()
+- [cinZodyagi]()
+- [artikyil]()
