@@ -31,6 +31,6 @@ This repository is for studying java101 on patika.dev
 - [KombinasyonHesaplama](https://github.com/yakupbozdemir/java101/blob/main/project/KombinasyonHesaplama/src/Main.java)
 - [UsluSayiHesaplama](https://github.com/yakupbozdemir/java101/blob/main/project/UsluSayiHesaplama/src/Main.java)
 - [BasamaklarToplami]()
-- [HarmonikSayi]()
+- [HarmonikSayi](https://github.com/yakupbozdemir/java101/blob/main/project/HarmonikSayi/src/Main.java)
 - []()
 - []()
