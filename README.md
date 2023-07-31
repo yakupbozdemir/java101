@@ -30,15 +30,16 @@ This repository is for studying java101 on patika.dev
 - [DortveBesinKuvvetleriniYazdirma](https://github.com/yakupbozdemir/java101/blob/main/project/DortveBesinKuvvetleriniYazdirma/src/Main.java)
 - [KombinasyonHesaplama](https://github.com/yakupbozdemir/java101/blob/main/project/KombinasyonHesaplama/src/Main.java)
 - [UsluSayiHesaplama](https://github.com/yakupbozdemir/java101/blob/main/project/UsluSayiHesaplama/src/Main.java)
-- [BasamaklarToplami]()
+- [BasamaklarToplami](https://github.com/yakupbozdemir/java101/blob/main/project/BasamaklarToplami/src/Main.java)
 - [HarmonikSayi](https://github.com/yakupbozdemir/java101/blob/main/project/HarmonikSayi/src/Main.java)
-- [yildizElmas]()
+- [yildizElmas](https://github.com/yakupbozdemir/java101/blob/main/project/yildizElmas/src/Main.java)
 - [ATM]()
 - []()
 - [MinMax](https://github.com/yakupbozdemir/java101/blob/main/project/MinMax/src/Main.java)
 - [MukemmelSayi](https://github.com/yakupbozdemir/java101/blob/main/project/MukemmelSayi/src/Main.java)
-- [TersUcgen]()
-- []()
+- [TersUcgen](https://github.com/yakupbozdemir/java101/blob/main/project/TersUcgen/src/Main.java)
+- [AsalSayi](https://github.com/yakupbozdemir/java101/blob/main/project/AsalSayi/src/Main.java)
+- [Fibonacci](https://github.com/yakupbozdemir/java101/blob/main/project/Fibonacci/src/Main.java)
 
 ## Metotlar
 
