@@ -39,3 +39,11 @@ This repository is for studying java101 on patika.dev
 - [MukemmelSayi](https://github.com/yakupbozdemir/java101/blob/main/project/MukemmelSayi/src/Main.java)
 - [TersUcgen]()
 - []()
+
+## Metotlar
+
+- [PalindromSayi](https://github.com/yakupbozdemir/java101/blob/main/project/PalindromSayi/src/Main.java)
+- []()
+- []()
+- []()
+- []()
