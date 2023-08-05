@@ -44,7 +44,7 @@ This repository is for studying java101 on patika.dev
 ## Metotlar
 
 - [PalindromSayi](https://github.com/yakupbozdemir/java101/blob/main/project/PalindromSayi/src/Main.java)
-- []()
 - [GelismisHesapMakinesi](https://github.com/yakupbozdemir/java101/blob/main/project/GelismisHesapMakinesi/src/Main.java)
-- []()
-- []()
+- [RecursiveUs](https://github.com/yakupbozdemir/java101/blob/main/project/RecursiveUs/src/Main.java)
+- [RecursiveAsalSayi](https://github.com/yakupbozdemir/java101/blob/main/project/RecursiveAsalSayi/src/Main.java)
+- [RecursiveDesen](https://github.com/yakupbozdemir/java101/blob/main/project/RecursiveDesen/src/Main.java)
