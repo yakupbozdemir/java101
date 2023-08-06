@@ -48,3 +48,9 @@ This repository is for studying java101 on patika.dev
 - [RecursiveUs](https://github.com/yakupbozdemir/java101/blob/main/project/RecursiveUs/src/Main.java)
 - [RecursiveAsalSayi](https://github.com/yakupbozdemir/java101/blob/main/project/RecursiveAsalSayi/src/Main.java)
 - [RecursiveDesen](https://github.com/yakupbozdemir/java101/blob/main/project/RecursiveDesen/src/Main.java)
+
+## Sınıflar
+
+- [OgrenciBilgiSistemi](https://github.com/yakupbozdemir/java101/blob/main/project/OgrenciBilgiSistemi/src/Main.java)
+- [BoxingMatch](https://github.com/yakupbozdemir/java101/blob/main/project/BoxingMatch/src/Main.java)
+- [MaasHesaplayici](https://github.com/yakupbozdemir/java101/blob/main/project/MaasHesaplayici/src/Main.java)
