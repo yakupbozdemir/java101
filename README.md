@@ -34,7 +34,7 @@ This repository is for studying java101 on patika.dev
 - [HarmonikSayi](https://github.com/yakupbozdemir/java101/blob/main/project/HarmonikSayi/src/Main.java)
 - [yildizElmas](https://github.com/yakupbozdemir/java101/blob/main/project/yildizElmas/src/Main.java)
 - [ATM](https://github.com/yakupbozdemir/java101/blob/main/project/ATM/src/Main.java)
-- []()
+- [EbobEkok]()
 - [MinMax](https://github.com/yakupbozdemir/java101/blob/main/project/MinMax/src/Main.java)
 - [MukemmelSayi](https://github.com/yakupbozdemir/java101/blob/main/project/MukemmelSayi/src/Main.java)
 - [TersUcgen](https://github.com/yakupbozdemir/java101/blob/main/project/TersUcgen/src/Main.java)
