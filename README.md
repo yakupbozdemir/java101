@@ -63,3 +63,7 @@ This repository is for studying java101 on patika.dev
 - [DizidekiElemanlariSiralama](https://github.com/yakupbozdemir/java101/blob/main/project/DizidekiElemanlariSiralama/src/Main.java)
 - [DiziFrekans](https://github.com/yakupbozdemir/java101/blob/main/project/DiziFrekans/src/Main.java)
 - [MatrisTranspoz](https://github.com/yakupbozdemir/java101/blob/main/project/MatrisTranspoz/src/Main.java)
+
+## Diğer Konular 
+-[SayiTahminOyunu](https://github.com/yakupbozdemir/java101/blob/main/project/SayiTahminOyunu/src/Main.java)
+-[polindromikKelime](https://github.com/yakupbozdemir/java101/blob/main/project/polindromikKelime/src/Main.java)
