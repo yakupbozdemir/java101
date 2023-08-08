@@ -54,3 +54,12 @@ This repository is for studying java101 on patika.dev
 - [OgrenciBilgiSistemi](https://github.com/yakupbozdemir/java101/blob/main/project/OgrenciBilgiSistemi/src/Main.java)
 - [BoxingMatch](https://github.com/yakupbozdemir/java101/blob/main/project/BoxingMatch/src/Main.java)
 - [MaasHesaplayici](https://github.com/yakupbozdemir/java101/blob/main/project/MaasHesaplayici/src/Main.java)
+
+## Diziler 
+- [HarmonikOrtalama](https://github.com/yakupbozdemir/java101/blob/main/project/HarmonikOrtalama/src/Main.java)
+- [EnYakinDeger]()
+- [BHarfiOlusturma]()
+- [DizideCiftSayi](https://github.com/yakupbozdemir/java101/blob/main/project/DizideCiftSayi/src/Main.java)
+- [DizidekiElemanlariSiralama](https://github.com/yakupbozdemir/java101/blob/main/project/DizidekiElemanlariSiralama/src/Main.java)
+- [DiziFrekans](https://github.com/yakupbozdemir/java101/blob/main/project/DiziFrekans/src/Main.java)
+- [MatrisTranspoz](https://github.com/yakupbozdemir/java101/blob/main/project/MatrisTranspoz/src/Main.java)
