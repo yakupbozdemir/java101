@@ -57,8 +57,8 @@ This repository is for studying java101 on patika.dev
 
 ## Diziler 
 - [HarmonikOrtalama](https://github.com/yakupbozdemir/java101/blob/main/project/HarmonikOrtalama/src/Main.java)
-- [EnYakinDeger]()
-- [BHarfiOlusturma]()
+- [EnYakinDeger](https://github.com/yakupbozdemir/java101/blob/main/project/EnYakinDeger/src/Main.java)
+- [BHarfiOlusturma](https://github.com/yakupbozdemir/java101/blob/main/project/BHarfiOlusturma/src/Main.java)
 - [DizideCiftSayi](https://github.com/yakupbozdemir/java101/blob/main/project/DizideCiftSayi/src/Main.java)
 - [DizidekiElemanlariSiralama](https://github.com/yakupbozdemir/java101/blob/main/project/DizidekiElemanlariSiralama/src/Main.java)
 - [DiziFrekans](https://github.com/yakupbozdemir/java101/blob/main/project/DiziFrekans/src/Main.java)
