@@ -67,3 +67,6 @@ This repository is for studying java101 on patika.dev
 ## Diğer Konular 
 - [SayiTahminOyunu](https://github.com/yakupbozdemir/java101/blob/main/project/SayiTahminOyunu/src/Main.java)
 - [polindromikKelime](https://github.com/yakupbozdemir/java101/blob/main/project/polindromikKelime/src/Main.java)
+
+## Bitirme Projesi
+-[MayinTarlasiOyunu][https://github.com/yakupbozdemir/java101/blob/main/project/MayinTarlasiOyunu/src/Main.java]
