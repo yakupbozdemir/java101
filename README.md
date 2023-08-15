@@ -69,4 +69,4 @@ This repository is for studying java101 on patika.dev
 - [polindromikKelime](https://github.com/yakupbozdemir/java101/blob/main/project/polindromikKelime/src/Main.java)
 
 ## Bitirme Projesi
--[MayinTarlasiOyunu][https://github.com/yakupbozdemir/java101/blob/main/project/MayinTarlasiOyunu/src/Main.java]
+-[MayinTarlasiOyunu](https://github.com/yakupbozdemir/java101/blob/main/project/MayinTarlasiOyunu/src/Main.java)
